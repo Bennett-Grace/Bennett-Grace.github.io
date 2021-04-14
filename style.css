@@ -1,0 +1,18 @@
+body {
+	background-color: #C2D5FF;
+}
+
+{font-family: Antonio;}
+h1 {
+	font-family: 'Antonio', sans-serif;
+	color: #0B3142;
+}
+
+p {
+	font-family: 'Anton', sans-serif;
+	color: #FF6978;
+	border-color: #0B3142;
+	border-width: 10px;
+	border-style: solid;
+	border-radius:5px;
+}
