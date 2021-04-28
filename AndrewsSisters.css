@@ -1,0 +1,38 @@
+body {
+	background-color: #C2D5FF;
+	margin-top: 20px;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin bottom: 20px;
+}
+
+{font-family: Antonio;}
+h1 {
+	font-family: 'Antonio', sans-serif;
+	color: #0B3142;
+	border-width: 10px;
+	border-style: outset;
+	border-radius: 5px;
+	border-color: #FF6978;
+}
+
+p {
+	font-family: 'Anton', sans-serif;
+	color: #FF6978;
+	word-spacing: 7px;
+	line-height: 25px;
+}
+
+img {
+	border-style: outset;
+	border-color: #0B3142;
+	border-width: 5px;
+	border-radius: 20px;
+}
+
+h3 {
+	font-family: 'Anton', sans-serif;
+	color: #0B3142;
+	word-spacing: 7px;
+	line-height: 25px;
+}
